@@ -1,0 +1,30 @@
+.main_heading{
+    font-size: 27px;
+    width: 100%;
+    margin: 0;
+    background: linear-gradient(to bottom right,black,blue,lightblue,white);
+    font-family: 'Cedarville Cursive', cursive;
+}
+.sub_heading{
+    width: 80%;
+    font-size: 18px;
+    white-space: pre-wrap;
+    background-color: firebrick;
+    font-family: fantasy;
+    margin-top: 10px !important;
+}
+.footer_div{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    font-weight: bold;
+    background: linear-gradient(to bottom right,black,blue,lightblue,white);
+    color: firebrick;
+    width: 100%;
+    line-height: 2;
+    font-size: 15px;
+}
+canvas{
+    border: 2px solid blue;
+    box-shadow: 5px 5px 5px red;
+}
